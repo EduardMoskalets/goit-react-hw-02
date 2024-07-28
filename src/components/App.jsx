@@ -1,4 +1,4 @@
-import React, { useState, useEffect } from 'react';
+import { useState, useEffect } from 'react';
 import "./App.module.css";
 import Description from '../components/Descriptions/Description';
 import Options from '../components/Options/Option';
